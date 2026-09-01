@@ -14,8 +14,12 @@
 * 原始 MV 视频；
 * 原唱音频；
 * UVR 分离后的伴奏音频；
-
 重新封装为适用于家庭 KTV 系统的双音轨视频。
+<img width="1488" height="1591" alt="UVR" src="https://github.com/user-attachments/assets/f221bfcb-cd57-447e-96d6-16d1004ab6b5" />
+<img width="1488" height="1591" alt="响度均衡" src="https://github.com/user-attachments/assets/8615ae4a-79df-43a8-955b-8b7b8417f67c" />
+<img width="1488" height="1591" alt="视频重编码" src="https://github.com/user-attachments/assets/e978bd88-648c-472a-8333-1d893c05e842" />
+
+
 
 默认输出：
 
@@ -36,7 +40,6 @@ Audio 2 = 伴奏
 * 不同歌曲之间音量忽大忽小；
 * 原唱与伴奏切换时音量突变；
 * 不同来源 MV 响度不一致；
-
 等问题。
 
 ---

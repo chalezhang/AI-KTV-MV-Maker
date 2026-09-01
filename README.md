@@ -1,10 +1,7 @@
-# KTV-MV-AI 伴奏分离-
+# AI-KTV-MV-Maker 自动伴奏分离KTV MV制作-
 自动进行人声/伴奏分离、响度统一和双音轨封装，让普通 MV 转换为可切换“原唱 / 伴奏”的家庭 KTV 视频。
 
-# UVR5 KTV MV Maker
 
-> 基于 UVR / RoFormer + FFmpeg 的批量 KTV MV 制作工具
-> 自动进行人声/伴奏分离、响度统一和双音轨封装，让普通 MV 转换为可切换“原唱 / 伴奏”的家庭 KTV 视频。
 
 ---
 
